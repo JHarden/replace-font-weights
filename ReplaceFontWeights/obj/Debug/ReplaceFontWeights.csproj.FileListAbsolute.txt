@@ -1,0 +1,6 @@
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\bin\Debug\ReplaceFontWeights.exe.config
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\bin\Debug\ReplaceFontWeights.exe
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\bin\Debug\ReplaceFontWeights.pdb
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\obj\Debug\ReplaceFontWeights.csprojResolveAssemblyReference.cache
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\obj\Debug\ReplaceFontWeights.exe
+c:\users\jharden\documents\visual studio 2013\Projects\ReplaceFontWeights\ReplaceFontWeights\obj\Debug\ReplaceFontWeights.pdb
